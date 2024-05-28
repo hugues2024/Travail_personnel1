@@ -1,0 +1,77 @@
+h1{
+    background-image: url('02e4514f20efec4b2a5dc5e30e7de8a5.jpg');
+    color:rgb(9, 97, 119);
+    font-family: Cambria;
+    font-size:70px;
+    text-align:center;
+    box-shadow: 6px 6px 0px black;
+    border-radius: 5px;
+}
+.autre{
+    background: linear-gradient(90deg,rgb(9, 97, 119),rgb(9, 97, 119));
+    text-align: left;
+    font-size: 70px;
+    color: rgb(45, 223, 59);
+}
+.autre2{
+    text-align: left;
+    border-color:linear-gradient(90deg,rgb(9, 97, 119),rgb(9, 97, 119)) ;
+    border-radius: 10px;
+    padding: 20px;
+}
+h2{
+    font-size: 40px;
+    color: rgb(5, 14, 2);
+    text-align: center;
+}
+h3{
+    font-size: 35px;
+}
+dt{
+    font-size: 20px;
+}
+dd{
+    font-size: 25px;
+}
+a{
+    font-size: 30px;
+    text-decoration: none;
+    font-style: normal;
+    color: rgb(9, 97, 119);
+    border-radius: 10px;
+    padding: 7px;
+}
+a:hover{
+    color: black;
+}
+a:focus{
+    background-color: aliceblue;
+}
+.mine{
+    font-size: 1px;
+    background-color: aliceblue;
+}
+.nv{
+    width: 15%;
+    position: relative;
+    
+}
+.nv:hover{
+    width: 20%;
+}
+.n1{
+    width: 13%;
+    position: relative;
+}
+.n2{
+    position: absolute;
+    left: 1500px;
+}
+p{
+    font-family: 'Segoe UI';
+    font-size: 40px;
+}
+.ref{
+    text-align: right;
+    font-size: 15px;
+}

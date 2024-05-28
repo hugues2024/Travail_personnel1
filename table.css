@@ -1,0 +1,21 @@
+td{
+    padding: auto;
+    border: solid 3px black;
+    text-align: center ; 
+
+}
+table{
+    border-collapse: collapse;
+    border-spacing: 3px;
+    font-size: 60px;
+}
+#td1{
+    color : blue ;
+    background-color: red ;
+}
+#td2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#td3{
+    background-color: yellow;
+}
